@@ -1,0 +1,26 @@
+.navbar
+{
+    margin:25px 0px ;
+    width: 70%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 25px 0px;
+}
+.icon
+{
+    font-size: 30px;
+    color: aquamarine;
+}
+.navbaritems:hover
+{
+    color: aquamarine;
+    transform: scale(1.2);
+    transition: ease-in 0.3s;
+}
+
+.line{
+    height: 1px;
+    width: 100%;
+    color: wheat;
+}
